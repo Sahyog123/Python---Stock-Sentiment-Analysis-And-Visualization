@@ -1,5 +1,5 @@
 # Python---Stock-Sentiment-Analysis-And-Visualization
-This project provides an interface to input a stock ticker symbol and retrieve its details, including stock price, trading volume, and sentiment analysis based on recent news headlines. The app provides visualizations of sentiment trends over time.
+This project lets the user input a stock ticker symbol and retrieve its details, including stock price, trading volume, and sentiment analysis based on recent news headlines. The app provides visualizations of sentiment trends over time.
 
 <p align="center">
   <img src="images/Interface Screenshot.png" width="400" alt="Stock Details Screenshot">
